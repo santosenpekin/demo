@@ -1,0 +1,21 @@
+{
+  "name": "santosenpekin",
+  "version": "0.0.1",
+  "description": "A module for test by santosenpekin",
+  "main": "./lib/santosenpekin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/santosenpekin/demo.git"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "santosenpekin",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/santosenpekin/demo/issues"
+  }
+}
